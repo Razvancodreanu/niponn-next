@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="p-8 bg-white text-gray-900">
       <h1 className="text-5xl font-bold mb-6 text-center">
-        Niponn General Construct
+        Niponn General Company
       </h1>
       <p className="text-xl text-center mb-10 text-gray-700">
         Experiență. Precizie. Încredere.
