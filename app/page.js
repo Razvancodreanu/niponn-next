@@ -1,6 +1,7 @@
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-100 to-gray-300 flex items-center justify-center px-4">
+    <div className="min-h-screen bg-gradient-to-br from-indigo-100 to-gray-300 flex items-center justify-center px-4">
+
       <main className="backdrop-blur-md bg-white/70 p-10 rounded-xl shadow-2xl max-w-3xl w-full">
         <h1 className="text-5xl font-extrabold mb-4 text-center text-gray-900 tracking-tight">
           Niponn General Company
